@@ -66,7 +66,7 @@ Also don't forget to send the `.ASPXAUTH_EKLASE_3` cookie from the login request
 
 In the response, as I said before, you'll get an amazing `.ASPXAUTH_EKLASE_3` cookie. It's amazing, because with this one you can now access anything on the e-klase.
 
-# 5. Get diary
+## 5. Get diary
 Now we can get the HTML version of the diary. To do that, we make a GET request to this page: https://my.e-klase.lv/Family/Diary
 
 Just don't forget to include our new `.ASPXAUTH_EKLASE_3` cookie.
